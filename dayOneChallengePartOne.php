@@ -22,4 +22,4 @@ foreach ($calibrationStrings as $string) {
     }
 }
 
-echo $sumOfCalibrationValues;
+echo "The Sum Of All Of The Calibration Values Are: " . $sumOfCalibrationValues;
